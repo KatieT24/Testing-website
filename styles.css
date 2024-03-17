@@ -1,0 +1,24 @@
+h1, h2, p, figcaption{ color:darkred; text-align: center;
+
+}
+
+figcaption:hover {background-color: #656d70 ; color:black}
+
+body{ background-color:#656d70;}
+
+li{color: rgb(41, 30, 2)}
+
+#contact{width:165px; margin-left: Auto; margin-right: auto;}
+
+a:hover{background-color:#656d70 ; color:blue;}
+a:visited, a:link{ color:black;}
+
+#images{
+    display: block; margin-left: auto; margin-right: auto;
+    width: 50%; max-width:80%; height:auto
+   }
+
+
+
+
+  footer{text-align: center;}
